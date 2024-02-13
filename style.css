@@ -1,0 +1,124 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     -webkit-font-smoothing: antialiased;
+ }
+
+ .topheader {
+     z-index: 11;
+ }
+
+ .bannerslider {
+     background: url(new-bnr.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     height: 700px;
+ }
+
+ .caption {
+     padding: 250px 0;
+     text-align: center;
+ }
+
+ .buttonbtn {
+     background: #0F0D1A;
+     color: white;
+     padding: 11px 30px;
+     border-radius: 10px;
+ }
+
+ .btnbutton a:hover {
+     border: 2px solid #0F0D1A;
+     color: #0F0D1A;
+ }
+
+
+
+ .newbox {
+     background: url(choosing.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 650px;
+     height: 467px;
+ }
+
+ .newbox2 {
+     background: url(common-workout.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 400px;
+     height: 467px;
+ }
+
+ .newbox3 {
+     background: url(understanding-primal-movements-header-960xh.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     height: 250px;
+ }
+
+ .newbox4 {
+     background: url(shoulder-exercises-to-add-to-your-routine-header-960xh.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     height: 250px;
+ }
+
+ .newbox5 {
+     background: url(boost-your-athletic-performance-using-household-baking-soda-header-960xh.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     height: 250px;
+ }
+
+ .newbox6 {
+     background: url(night.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     height: 250px;
+ }
+
+ .newbox7 {
+     background: url(benefits.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     height: 250px;
+ }
+
+ .newbox8 {
+     background: url(how.png) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     height: 250px;
+ }
+
+ .newbox9 {
+     background: url(3-healthy.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 650px;
+     height: 420px;
+ }
+
+ .newbox10 {
+     background: url(resistant.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 400px;
+     height: 400px;
+ }
+
+ .newbox11 {
+     background: url(ice.jpg) no-repeat;
+     background-size: cover;
+     background-position: center;
+     width: 360px;
+     height: 250px;
+ }
